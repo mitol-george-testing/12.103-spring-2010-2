@@ -1,0 +1,49 @@
+{
+  "level": "Undergraduate",
+  "topics": [
+    [
+      "Science",
+      "Earth Science",
+      "Environmental Science"
+    ],
+    [
+      "Social Science",
+      "Public Administration",
+      "Environmental Policy"
+    ],
+    [
+      "Science",
+      "Earth Science",
+      "Atmospheric Science"
+    ],
+    [
+      "Science",
+      "Earth Science"
+    ],
+    [
+      "Social Science",
+      "Public Administration",
+      "Science and Technology Policy"
+    ]
+  ],
+  "instructors": {
+    "content": [
+      "6344d530-1961-1fc1-d4ee-d650f8fa1e7e",
+      "d611afa5-56fb-9311-806f-323a785e0dcc",
+      "0f318dc6-86ef-cfb4-21ca-5cd252b56e7a"
+    ],
+    "website": "ocw-www"
+  },
+  "course_title": "Science and Policy of Natural Hazards",
+  "course_description": "This course examines the science of natural catastrophes such as earthquakes and hurricanes and explores the relationships between the science of and policy toward such hazards. It presents the causes and effects of these phenomena, discusses their predictability, and examines how this knowledge influences policy making. This course includes intensive practice in the writing and presentation of scientific research and summaries for policy makers.\n",
+  "department_numbers": [
+    "12"
+  ],
+  "extra_course_numbers": "",
+  "primary_course_number": "12.103",
+  "learning_resource_types": [
+    "Problem Sets",
+    "Lecture Notes"
+  ],
+  "title": "Course Metadata"
+}
